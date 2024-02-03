@@ -42,7 +42,7 @@ Introducción a la Teoría de la Probabilidad.
 Inferencia estadística.
 - Conceptos básicos.
 - Casos de uso.
-- 
+  
 Estadística multivariante.
 - Correlación.
 - Regresión.
