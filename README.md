@@ -12,7 +12,7 @@ Unidad de Estadística Aplicada (director)
 Centro de Computación Científica e Innovación Tecnológica
 Universidad de La Rioja
 
--Edna Viviana Segura Alvarado
+- Edna Viviana Segura Alvarado
 Unidad de Estadística Aplicada
 Centro de Computación Científica e Innovación Tecnológica
 Universidad de La Rioja
@@ -29,25 +29,29 @@ Sesiones online síncronas de 18.00 a 20.00 horas:
 
 ## Contenidos
 Estadística descriptiva univariante.
--Tablas de frecuencia.
--Medidas de posición: media, mediana, cuantiles y moda.
--Medidas de dispersión absoluta: varianza y desviación típica.
--Análisis de frecuencias de n-gramas.
+- Tablas de frecuencia.
+- Medidas de posición: media, mediana, cuantiles y moda.
+- Medidas de dispersión absoluta: varianza y desviación típica.
+- Análisis de frecuencias de n-gramas.
+
 Introducción a la Teoría de la Probabilidad.
--Distribución de probabilidad.
--Variable aleatoria.
--Probabilidad condicionada. Teorema de Bayes.
+- Distribución de probabilidad.
+- Variable aleatoria.
+- Probabilidad condicionada. Teorema de Bayes.
+
 Inferencia estadística.
--Conceptos básicos.
--Casos de uso.
+- Conceptos básicos.
+- Casos de uso.
+- 
 Estadística multivariante.
--Correlación.
--Regresión.
--Clasificación: clasificador bayesiano ingenuo.
+- Correlación.
+- Regresión.
+- Clasificación: clasificador bayesiano ingenuo.
+
 Modelización PLN.
--Modelos de lenguaje.
--Modelos de etiquetado gramatical.
--Modelos del aprendizaje automático para el PLN.
+- Modelos de lenguaje.
+- Modelos de etiquetado gramatical.
+- Modelos del aprendizaje automático para el PLN.
 
 
 
